@@ -1,0 +1,14 @@
+#container div{
+    font-size: 0px;
+}
+#container span{
+    display: inline-block;
+    vertical-align:top;
+    width: 70px;
+    height: 70px;
+    border: 1px solid black;
+    margin: 2px;
+    text-align: center;
+    line-height: 70px;
+    font-size: 20px;
+}
